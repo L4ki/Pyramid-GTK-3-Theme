@@ -3,7 +3,7 @@
 
 gtk-color-scheme = "text_color:#eff0f1"
 gtk-color-scheme = "base_color:#383c4a"
-gtk-color-scheme = "insensitive_base_color:#2e313d"
+gtk-color-scheme = "insensitive_base_color:#353947"
 gtk-color-scheme = "fg_color:#eff0f1"
 gtk-color-scheme = "bg_color:#383c4a"
 gtk-color-scheme = "selected_fg_color:#eff0f1"
